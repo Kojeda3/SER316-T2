@@ -21,3 +21,5 @@ Updated feature2 with dev and merged it back to dev
 ## Step 7
 Cherry-picked hotfix into main and merged main into dev
 
+## Step 8 
+Reviewed history (dev)
