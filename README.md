@@ -17,3 +17,7 @@ Squashed feature3, rebased and merged it into dev
 
 ## Step 6
 Updated feature2 with dev and merged it back to dev
+
+## Step 7
+Cherry-picked hotfix into main and merged main into dev
+
