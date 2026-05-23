@@ -14,3 +14,6 @@ Rebased feature2 onto dev
 
 ## Step 5
 Squashed feature3, rebased and merged it into dev
+
+## Step 6
+Updated feature2 with dev and merged it back to dev
