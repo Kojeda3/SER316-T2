@@ -12,3 +12,5 @@ Merged feature1 into dev
 ## Step 4
 Rebased feature2 onto dev
 
+## Step 5
+Squashed feature3, rebased and merged it into dev
